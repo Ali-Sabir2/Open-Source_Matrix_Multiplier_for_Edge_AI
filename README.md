@@ -1,1 +1,1 @@
-# Open-Source_Matrix_Multiplier_for_Edge_AI
+# This is the notbook submission for 2023 Code a Chip Contest 
